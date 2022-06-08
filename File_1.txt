@@ -1,3 +1,0 @@
-This is first file.
-
-it containes Hello world
