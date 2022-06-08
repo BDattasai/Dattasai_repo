@@ -1,3 +1,0 @@
-This is second file.
-
-it containes Hello git.
